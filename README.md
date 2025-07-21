@@ -1,5 +1,6 @@
 # 🚚 Supply Chain Management Dashboard (Power BI)
-https://sdmntprcentralus.oaiusercontent.com/files/00000000-44dc-61f5-923b-f68e357067a2/raw?se=2025-07-21T08%3A16%3A44Z&sp=r&sv=2024-08-04&sr=b&scid=4c585fcb-2b94-5213-a0eb-275ce02edd28&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-20T14%3A10%3A47Z&ske=2025-07-21T14%3A10%3A47Z&sks=b&skv=2024-08-04&sig=EIE9aONJU7Qc%2BnjW9ruE7Yfrtbt5B5xvOmGOhLM39gM%3D
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e47b5e85-bee4-4f4d-baa7-0b7e04df798d" />
+
 
 This project presents a comprehensive **Supply Chain Management (SCM) Dashboard** developed using **Power BI**, aimed at tracking, analyzing, and optimizing critical supply chain metrics such as inventory levels, supplier performance, order fulfillment, transportation efficiency, and costs.
 
